@@ -25,3 +25,8 @@ body {
     text-wrap: balance;
   }
 }
+@media (max-width: 768px) {
+  .bg-cover {
+    background-position: center;
+  }
+}
